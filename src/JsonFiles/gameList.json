@@ -1,1 +1,14 @@
-[{"Price":"0","Title":"Dota 2","ReleaseDate":"9 Jul, 2013","reviewSummary":"Very Positive<br>82% of the 1,949,650 user reviews for this game are positive."},{"Price":"0","Title":"Dota 2","ReleaseDate":"9 Jul, 2013","reviewSummary":"Very Positive<br>82% of the 1,949,650 user reviews for this game are positive."}]
+[
+  {
+    "name": "Dota 2",
+    "price": "Free",
+    "reviews": "Mostly Positive",
+    "release data": "9 Jul, 2013"
+  },
+  {
+    "name": "Dota 2 Player Profiles",
+    "price": "Free",
+    "reviews": "Very Positive",
+    "release data": "13 Nov, 2015"
+  }
+]

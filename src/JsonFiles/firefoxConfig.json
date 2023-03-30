@@ -1,0 +1,7 @@
+[
+  {
+    "browserMode": "-private",
+    "language": "lang=en-GB",
+    "remoteAllow": "--remote-allow-origins=*"
+  }
+]

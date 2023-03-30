@@ -1,0 +1,9 @@
+[
+  {
+    "browserMode": "--incognito",
+    "language": "lang=en-GB",
+    "remoteAllow": "--remote-allow-origins=*"
+  }
+]
+
+

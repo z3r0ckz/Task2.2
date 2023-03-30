@@ -1,0 +1,13 @@
+ [
+    {
+      "english": "https://store.steampowered.com/privacy_agreement/english/",
+      "spanish": "https://store.steampowered.com/privacy_agreement/spanish/",
+      "french": "https://store.steampowered.com/privacy_agreement/french/",
+      "german": "https://store.steampowered.com/privacy_agreement/german/",
+      "italian":"https://store.steampowered.com/privacy_agreement/italian/",
+      "russian": "https://store.steampowered.com/privacy_agreement/russian/",
+      "japanese":"https://store.steampowered.com/privacy_agreement/japanese/",
+      "portuguese":"https://store.steampowered.com/privacy_agreement/portuguese/",
+      "brazilian":"https://store.steampowered.com/privacy_agreement/brazilian/"
+    }
+  ]
